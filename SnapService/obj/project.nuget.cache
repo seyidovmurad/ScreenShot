@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vZL6nvuDZzykpuItScZddVBzYzunlznH29Z6+joedqN/OupVVSu4FsFBInV5h50mzv+a5q5rIRzGWWaZQvJLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seyi_od63\\Desktop\\ScreenShoter\\SnapService\\SnapService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyi_od63\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\seyi_od63\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

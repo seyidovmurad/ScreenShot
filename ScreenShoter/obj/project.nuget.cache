@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8Lh0LyQ85jMwAdYhLRyiQRDxd3LKFTWojv1hfz54Srtq6Ar/ix65rShbiqtRnZ/lk3iCFhobSjr86rzAeXzNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seyi_od63\\Desktop\\ScreenShoter\\ScreenShoter\\ScreenShoter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyi_od63\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\seyi_od63\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
